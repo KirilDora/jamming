@@ -1,0 +1,11 @@
+.LocalPlaylists {
+  background-color: indigo;
+  padding: 15px;
+  width: 93%;
+  margin: 15px auto 0 auto;
+  min-height: 10vh;
+}
+
+.PlaylistItem {
+  padding: 10px 0;
+}

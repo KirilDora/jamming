@@ -1,0 +1,23 @@
+.searchBar {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 5vh;
+  height: 30vh;
+}
+
+.inputForm {
+  padding: 2vh 5vw;
+  border-radius: 5px;
+  border: none;
+}
+
+.searchButton {
+  transition: 0.5s;
+  text-transform: uppercase;
+}
+
+.searchButton:hover {
+  background-color: mediumpurple;
+}
